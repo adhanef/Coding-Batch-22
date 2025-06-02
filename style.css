@@ -1,8 +1,11 @@
 .c-item {
-  height: 480px;
+  height: 400px;
 }
 
 .c-img {
   height: 100%;
   object-fit: cover;
+}
+.carousel {
+  margin: 1rem auto;
 }
